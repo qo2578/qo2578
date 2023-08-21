@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1HxhjvIsxbOVOJqgt0L3A8CjG7-uPiO9N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
 <a href="https://linkedin.com/in/aiperi iskenderova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiperi iskenderova" height="30" width="40" /></a>
 </p>
 
