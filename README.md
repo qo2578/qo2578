@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aiperi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/c/cb/Tumblr_o07ocueavC1v3bc1lo1_500_%281%29.gif/revision/latest?cb=20170710043224" align="" width="300" alt="Coding" />
 - 🌱 I’m currently learning **React Native, NestJs**
 
 - 💬 Ask me about **React, Vue, JavaScript, HTML, CSS**
