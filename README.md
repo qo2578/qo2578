@@ -13,9 +13,6 @@
 <a href="https://linkedin.com/in/aiperi iskenderova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiperi iskenderova" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-<a href="https://t.me/qoichi" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="aiperi iskenderova" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
