@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qo2578&show_icons=true&locale=en" alt="qo2578" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qo2578&" alt="qo2578" /></p>
+
+<a href="https://www.codewars.com/users/beks2995"><img src="https://www.codewars.com/users/qo2578/badges/large"></a>
