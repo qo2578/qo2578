@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **React Native, NestJs**
 
 - 💬 Ask me about **React, Vue, JavaScript, HTML, CSS**
+
 <img src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/c/cb/Tumblr_o07ocueavC1v3bc1lo1_500_%281%29.gif/revision/latest?cb=20170710043224" align="right" width="200" alt="Coding" />
+ 
 - 📫 How to reach me **qo.iskenderova@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1HxhjvIsxbOVOJqgt0L3A8CjG7-uPiO9N/view?usp=sharing)
