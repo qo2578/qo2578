@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aiperi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **React Native, NestJs**
+
+- 💬 Ask me about **React, Vue, JavaScript, HTML, CSS**
+
+- 📫 How to reach me **qo.iskenderova@gmail.com**
+
+- 📄 Know about my experiences [https://resume-iskenderovaaiperi.vercel.app/](https://resume-iskenderovaaiperi.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aiperi iskenderova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiperi iskenderova" height="30" width="40" /></a>
