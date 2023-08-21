@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **qo.iskenderova@gmail.com**
 
-- 📄 Know about my experiences [resume]([https://drive.google.com/file/d/1u1mjBVwmvKdUQXlDPUn3jUf21LKx117_/view?usp=sharing](https://drive.google.com/file/d/1HxhjvIsxbOVOJqgt0L3A8CjG7-uPiO9N/view?usp=sharing))
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1HxhjvIsxbOVOJqgt0L3A8CjG7-uPiO9N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
