@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-<a href="https://t.me/qoichi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="aiperi iskenderova" height="30" width="40" /></a>
+<a href="https://t.me/qoichi" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="aiperi iskenderova" height="30" width="40" /></a>
 </p>
 
 
